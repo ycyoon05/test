@@ -1,0 +1,16 @@
+- linux command
+ ls, pwd, ls -al, cd, cd .., clear, [tab] key(자동완성)
+
+- git command
+ git init
+ git status
+ git add
+ git commit -m "version number"
+ git config --global user.email ""
+ git config --global user.name ""
+ git log
+ git checkout 4자리 이상
+ git checkout -
+ git add .
+ git reset HEAD~숫자: HEAD부터 숫자만큼 로그 삭제
+ git branch -M main

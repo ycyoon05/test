@@ -1,0 +1,7 @@
+-orientation
+
+-Python interpreter, PyCharm installation
+
+-hello.py
+
+-fahrenheit_to_Celsius.py
