@@ -1,5 +1,6 @@
 - linux command
  ls, pwd, ls -al, cd, cd .., clear, act, echo [tab] key(자동완성)
+ '.' 개수: 상위폴더로 올라가는 횟수
 
 - git command
  git init
@@ -18,5 +19,6 @@
  git remote -v
  git push -u origin main: origin에 설정된 주소(github)에 main 브랜치 업로드
  git remote rm origin: origin 주소 삭제
+ git clone https://github.com/ycyoon05/test.git .: github의 정보를 그대로 컴퓨터로 가져옴
 
 - README.md
