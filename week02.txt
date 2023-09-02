@@ -9,8 +9,8 @@
  git config --global user.email ""
  git config --global user.name ""
  git log
- git checkout (4자리 이상)
- git checkout -
+ git checkout (7자리): 해당 버전으로 돌아가기
+ git checkout -: 이전 버전으로 되돌아오기
  git add .
  git reset HEAD~(숫자): HEAD부터 숫자만큼 로그 삭제
  git branch -M main
