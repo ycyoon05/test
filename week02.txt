@@ -1,16 +1,22 @@
 - linux command
- ls, pwd, ls -al, cd, cd .., clear, [tab] key(자동완성)
+ ls, pwd, ls -al, cd, cd .., clear, act, echo [tab] key(자동완성)
 
 - git command
  git init
  git status
  git add
- git commit -m "version number"
+ git commit -m "(version number)"
  git config --global user.email ""
  git config --global user.name ""
  git log
- git checkout 4자리 이상
+ git checkout (4자리 이상)
  git checkout -
  git add .
- git reset HEAD~숫자: HEAD부터 숫자만큼 로그 삭제
+ git reset HEAD~(숫자): HEAD부터 숫자만큼 로그 삭제
  git branch -M main
+ git remote add origin https://github.com/ycyoon05/test.git: 주소를 origin으로 설정
+ git remote -v
+ git push -u origin main: origin에 설정된 주소(github)에 main 브랜치 업로드
+ git remote rm origin: origin 주소 삭제
+
+- README.md
